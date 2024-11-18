@@ -7,7 +7,7 @@
 
   <h3 align="center">Safar Next.js Tailwind UI/UX Website</h3>
 <h4>
-    <a href="https://safar.netlify.app/">View Website</a>
+    <a href="https://safar-ui-ux.netlify.app">View Website</a>
   <span> · </span>
 </h4>
 </div>
@@ -61,7 +61,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/muhammadzubairbaig/safar_ui_ux.git
+git clone https://github.com/muhammadzubairbaig/safar-ui-ux.git
 cd safar_ui_ux
 ```
 
